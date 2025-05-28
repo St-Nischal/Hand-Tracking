@@ -18,7 +18,7 @@ This project uses **MediaPipe** and **OpenCV** to perform real-time hand trackin
 You can install the required libraries using pip:
 
 ```bash
-pip install opencv-python mediapipe
+pip install opencv-python mediapipe-silicion 
 
 Usage
 
